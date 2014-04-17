@@ -1,0 +1,5 @@
+<apex:page standardController="Invoice__c">
+	<apex:relatedList list="Line_Items__r"/>
+	<p>testing 1 2 3</p>
+	<p>this is not loading</p>
+</apex:page>

@@ -1,0 +1,19 @@
+{
+    "username": "kevingee@kevingee.biz", 
+    "environment": "developer", 
+    "project_name": "VFDashboard", 
+    "workspace": "C:\\Users\\Kevin\\Google Drive\\Salesforce\\Projects\\VFDashboard\\", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "53PGOKJB71D9SAX2IIV1FMA1FEOE1ISI", 
+    "metadata_container": "1dcF0000000PnNEIA0", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}
